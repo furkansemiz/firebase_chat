@@ -1,3 +1,5 @@
+APK File: https://github.com/furkansemiz/firebase_chat/blob/main/firebase_chat_case_study.apk
+
 <p align="center">
   <img src="screenshots/IMG_0038.PNG" alt="Authentication View" width="300">
     <img src="screenshots/IMG_0039.PNG" alt="Login View" width="300">
