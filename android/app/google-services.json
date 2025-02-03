@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "799537226231",
+    "project_id": "flutter-chatt-app-bb371",
+    "storage_bucket": "flutter-chatt-app-bb371.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799537226231:android:239f46076a4a3d75624ef2",
+        "android_client_info": {
+          "package_name": "com.furky.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0ei6yKObg6hfpxHCzNK4Pv2jxNPzEYN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799537226231:android:d8ecff64499d2604624ef2",
+        "android_client_info": {
+          "package_name": "com.furky.chat.flutter_fire_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0ei6yKObg6hfpxHCzNK4Pv2jxNPzEYN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

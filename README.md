@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="screenshots/IMG_0038.PNG" alt="Authentication View" width="300">
     <img src="screenshots/IMG_0039.PNG" alt="Login View" width="300">
