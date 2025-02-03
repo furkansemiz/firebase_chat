@@ -1,14 +1,24 @@
-<img src="screenshots/IMG_0038.PNG" alt="Authentication View" width="300">
-<img src="screenshots/IMG_0039.PNG" alt="Login View" width="300">
-<img src="screenshots/IMG_0040.PNG" alt="Register View" width="300">
+
+<p align="center">
+  <img src="screenshots/IMG_0038.PNG" alt="Authentication View" width="300">
+    <img src="screenshots/IMG_0039.PNG" alt="Login View" width="300">
+</p>
+<p align="center">
+  <img src="screenshots/IMG_0040.PNG" alt="Register View" width="300">
 <img src="screenshots/IMG_0041.PNG" alt="My Profile View" width="300">
-<img src="screenshots/IMG_0042.PNG" alt="Chats View" width="300">
+</p>
+<p align="center">
+  <img src="screenshots/IMG_0042.PNG" alt="Chats View" width="300">
 <img src="screenshots/IMG_0043.PNG" alt="User Chat View" width="300">
-<img src="screenshots/IMG_0044.PNG" alt="Message Setting View" width="300">
+</p>
+<p align="center">
+  <img src="screenshots/IMG_0044.PNG" alt="Message Setting View" width="300">
 <img src="screenshots/IMG_0045.PNG" alt="Emoji Keyboard View" width="300">
-<img src="screenshots/IMG_0046.PNG" alt="Other User View" width="300">
+</p>
+<p align="center">
+  <img src="screenshots/IMG_0046.PNG" alt="Other User View" width="300">
 <img src="screenshots/IMG_0047.PNG" alt="Search User View" width="300">
-<img src="screenshots/IMG_0048.PNG" alt="Add User View" width="300">
+</p>
 
 # Firebase Chat
 
